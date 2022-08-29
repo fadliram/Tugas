@@ -1,3 +1,3 @@
 # Tugas
-belajar git i prakerja
-brlajar git di prakerja
+
+belajar git di prakerja
